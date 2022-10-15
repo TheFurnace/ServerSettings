@@ -14,14 +14,14 @@ BabyMatureSpeedMultiplier=15.0
 ClampResourceHarvestDamage=False
 DayTimeSpeedScale=0.6
 DayTimeSpeedScale=1.000000
-DifficultyOffset=0.200000
+DifficultyOffset=0.400000
 DinoCharacterFoodDrainMultiplier=1.5
 DinoDamageMultiplier=1.5
 DinoResistanceMultiplier=0.8
 DisableStructureDecayPvE=False
 DontAlwaysNotifyPlayerJoined=False
 EggHatchSpeedMultiplier=10.0
-EnablePVPGamma=True
+EnablePVPGamma=False
 GlobalCorpseDecomposition=2.0
 GlobalSpoilingTimeMultiplier=2.0
 GlobalItemDecompositionTimeMultiplier=2.0
@@ -37,6 +37,7 @@ NoTributeDownloads=False
 OverrideOfficialDifficulty=5.000000
 OverrideStructurePlatformPrevention=True
 OxygenSwimSpeedStatMultiplier=3.000000
+DinoCharacterStaminaDrainMultiplier=0.5
 PlayerDamageMultiplier=2.2
 PreventDiseases=True
 ProximityChat=False
@@ -59,7 +60,7 @@ StructureDamageMultiplier=3.0
 StructureResistanceMultiplier=0.7
 TamedDinoDamageMultiplier=1.000000
 TamedDinoResistanceMultiplier=1.000000
-TamingSpeedMultiplier=10
+TamingSpeedMultiplier=25
 TribeNameChangeCooldown=0.000000
 UseCorpseLocator=true
 XPMultiplier=2.000000
@@ -148,7 +149,7 @@ sg.HeightFieldShadowQuality=3
 SessionName=TASHARK
 
 [MessageOfTheDay]
-Message=Welcome to CUM Server
+Message=Welcome to the CUM ZONE
 Duration=5
 
 [/Script/Engine.GameSession]
